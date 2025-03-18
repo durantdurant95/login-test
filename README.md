@@ -44,4 +44,4 @@ For more detailed instructions, refer to the [Vercel Documentation](https://verc
 
 ## Deployed URL
 
-You can view the deployed project at [https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app).
+You can view the deployed project at [https://login-test-indol.vercel.app/](https://login-test-indol.vercel.app/).
