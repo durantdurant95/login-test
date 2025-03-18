@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a test project using [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), and [shadcn/ui](https://shadcn.dev).
 
 ## Getting Started
 
@@ -22,15 +22,26 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about the technologies used in this project, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs) - learn about Tailwind CSS utility-first framework.
+- [shadcn/ui Documentation](https://shadcn.dev/docs) - learn about shadcn/ui components.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deployment on Vercel
 
-## Deploy on Vercel
+This project is deployed using [Vercel](https://vercel.com). Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with Next.js.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To deploy your own version of this project, you can follow these steps:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Push your code to a Git repository (GitHub, GitLab, or Bitbucket).
+2. Sign in to [Vercel](https://vercel.com) and create a new project.
+3. Import your Git repository into Vercel.
+4. Follow the prompts to configure your project settings.
+5. Once the deployment is complete, you will receive a live URL for your project.
+
+For more detailed instructions, refer to the [Vercel Documentation](https://vercel.com/docs).
+
+## Deployed URL
+
+You can view the deployed project at [https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app).
